@@ -5,6 +5,8 @@
 #ignore DB
 /mongo
 
+.env
+
 # Logs
 logs
 *.log
